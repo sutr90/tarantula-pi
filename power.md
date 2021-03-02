@@ -44,3 +44,7 @@ from 0V to 5V, 0.4ohm resistor
 | 10 | 12.75 | 65 | 16 |
 | 15 | 12.75 | 65 | 23 |
 
+
+https://www.tme.eu/cz/details/drl22_2.7/superkondenzatory/samxon/drl226s0tk25rrasp/
+https://www.tme.eu/cz/details/crl15w-1r/rezistory-15w/sr-passives/
+https://www.tme.eu/cz/details/tl431acz-ap/zdroje-napetove-reference-obvody/stmicroelectronics/
